@@ -1,1 +1,5 @@
 # Hava-durumu-
+
+IBAN BAHIŞ: TR93 0080 7004 5491 80796710 01
+
+80 TL
